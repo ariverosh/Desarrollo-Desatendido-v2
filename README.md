@@ -4,6 +4,13 @@
 
 Este es un sistema de desarrollo autónomo **universal** que puede adaptarse a cualquier proyecto de software. No está limitado a un proyecto específico y puede auto-descubrir la estructura de cualquier codebase.
 
+### 🏆 Principios Fundamentales
+Este sistema sigue estrictamente las [**Reglas de Oro**](GOLDEN_RULES.md):
+- ❌ **NO Fallbacks** - Errores explícitos con soluciones
+- 🔨 **NO Parches** - Solo soluciones reales y definitivas
+- ♻️ **Reutilización Absoluta** - DRY (Don't Repeat Yourself)
+- 🔍 **Verificar, No Suponer** - Cada suposición es un bug
+
 ## 🚀 Inicio Rápido
 
 ```bash
