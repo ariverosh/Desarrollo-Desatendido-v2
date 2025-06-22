@@ -1,8 +1,8 @@
-# 🤖 Avicloud Autonomous Development System v2
+# 🤖 Sistema Universal de Desarrollo Desatendido v2
 
 ## 📋 Información del Repositorio
 
-Este es un repositorio **independiente** del sistema principal Avicloud Display, diseñado específicamente para el Sistema Autónomo de Desarrollo v2.
+Este es un sistema **universal** de desarrollo autónomo que puede aplicarse a cualquier proyecto de software, independientemente del lenguaje o framework utilizado.
 
 ### 🎯 Propósito
 - Sistema 100% autónomo para desarrollo desatendido
@@ -11,16 +11,15 @@ Este es un repositorio **independiente** del sistema principal Avicloud Display,
 - Documentación auto-mantenida
 - Portable y auto-configurable
 
-### 📦 Repositorios Relacionados
+### 🌍 Compatibilidad Universal
 
-Este sistema trabaja con los siguientes repositorios de Avicloud:
+Este sistema puede trabajar con proyectos en:
 
-1. **Avicloud-Display** - Repositorio principal (configuración/docs)
-2. **Avicloud-Display-Server** - Backend .NET Core
-3. **Avicloud-Display-Core** - Aplicaciones F# 
-4. **Avicloud-Display-Shared** - Modelos compartidos
-5. **Avicloud-Display-Pro** - Versión profesional
-6. **Avicloud-Display-Server-Blazor** - Versión Blazor
+- **Lenguajes**: JavaScript, TypeScript, Python, Java, C#, Go, Rust, Ruby, PHP, etc.
+- **Frameworks**: React, Angular, Vue, Django, Spring, .NET, Rails, Laravel, etc.
+- **Herramientas**: npm, yarn, pip, maven, gradle, cargo, dotnet, etc.
+- **Testing**: Jest, pytest, JUnit, xUnit, Mocha, Cypress, Playwright, etc.
+- **Repositorios**: Git, GitHub, GitLab, Bitbucket, etc.
 
 ### 🔧 Configuración Inicial
 

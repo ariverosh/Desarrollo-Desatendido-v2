@@ -1,6 +1,6 @@
 #!/bin/bash
 # bootstrap.sh - Inicializa el sistema autónomo v2
-# Sistema de desarrollo desatendido para Avicloud Display
+# Sistema de desarrollo desatendido para tu proyecto
 
 set -euo pipefail
 
