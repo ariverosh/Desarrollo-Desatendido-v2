@@ -1,0 +1,65 @@
+# Sistema Autónomo v2 - .gitignore
+
+# Archivos de lock activos
+.locks/*.lock
+!.locks/.gitkeep
+
+# Logs temporales
+logs/orchestrator/*.log
+logs/tasks/*.log
+logs/errors/*.log
+!logs/**/.gitkeep
+
+# Contextos activos (solo mantener templates)
+contexts/active/*
+!contexts/active/.gitkeep
+
+# Archivos de estado temporal
+state/test-results/*.json
+state/test-results/*.xml
+state/snapshots/*.snapshot
+!state/test-results/.gitkeep
+!state/snapshots/.gitkeep
+
+# Bases de datos locales (mantener estructura, no datos)
+*.db-journal
+*.db-wal
+
+# Archivos temporales del sistema
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración local
+*.local
+*.private
+
+# Directorios de IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Node modules (si se agregan en el futuro)
+node_modules/
+package-lock.json
+
+# Python (si se agregan scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+
+# Archivos de respaldo
+*.bak
+*.backup
+*.old
+
+# Archivos de configuración sensibles
+*credentials*
+*token*
+*secret*

@@ -1,0 +1,1 @@
+/mnt/d/desarrollo/Avicloud Display/Desarrollo Desatendido v2/state/project-config.sh
